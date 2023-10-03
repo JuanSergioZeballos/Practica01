@@ -24,16 +24,26 @@ public class Student2{
 		Cui=c;
 	}
 
-	public void setStatus(boolean s){
-		Status=s;
+	public void setStatus(int i){
+		if(i==1){
+			Status=true;
+		}
+		else{
+			Status=false;
+		}
 	}
 
 	public void setGmail(String g){
 		Gmail=g;
 	}
 
-	public void setGender(String gen){
-		Gender gen;
+	public void setGender(int g){
+		if(g==0){
+			Gender="Femenino";
+		}
+		else{
+			Gender="Masculino";
+		}
 	}
 
 	public void setFecha(String f){
