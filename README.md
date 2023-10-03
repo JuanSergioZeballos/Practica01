@@ -36,7 +36,7 @@
 </<tr>
 <tr><td colspan="6">DOCENTE:
 <ul>
-<li>Ing. Richart Escobedo Quispe</li>
+<li>Ing. Richart Smith Escobedo Quispe</li>
 </ul>
 </td>
 </<tr>
