@@ -31,7 +31,7 @@
 <tr><td>ASIGNATURA:</td><td colspan="5">---------------Fundamentos de programación II - B - Practica - 01 - Array---------------</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Array</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>03</td><td>AÑO LECTIVO:</td><td>2023 - B</td><td>NRO. SEMESTRE:</td><td>II</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2023 - B</td><td>NRO. SEMESTRE:</td><td>II</td>
 </tr>
 </<tr>
 <tr><td colspan="6">DOCENTE:
