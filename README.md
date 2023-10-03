@@ -13,13 +13,13 @@
         </tr>
     </theader>
     <tbody>
-        <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica</td></tr>
+        <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica 01 </td></tr>
     </tbody>
 </table>
 </div>
 
 <div align="center">
-<span style="font-weight:bold;">GUÍA DE PRACTICA</span><br />
+<span style="font-weight:bold;">GUÍA DE PRACTICA 01</span><br />
 </div>
 
 
@@ -28,7 +28,7 @@
 <tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
 </theader>
 <tbody>
-<tr><td>ASIGNATURA:</td><td colspan="5">Fundamentos de programación II - B - Practica - 01 - Array</td></tr>
+<tr><td>ASIGNATURA:</td><td colspan="5">---------------Fundamentos de programación II - B - Practica - 01 - Array---------------</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Array</td></tr>
 <tr>
 <td>NÚMERO DE PRÁCTICA:</td><td>03</td><td>AÑO LECTIVO:</td><td>2023 - B</td><td>NRO. SEMESTRE:</td><td>II</td>
@@ -59,7 +59,7 @@
 </tdbody>
 </table>
 
-# Django
+# JAVA - FP2
 
 [![License][license]][license-file]
 [![Downloads][downloads]][releases]
