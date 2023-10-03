@@ -1,4 +1,4 @@
-
+// FUNDAMENTOS DE PROGRAMACION 2 - PRACTICA 01
 import java.util.Scanner;
 
 public class Student{
