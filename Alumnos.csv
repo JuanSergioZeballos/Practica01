@@ -1,20 +1,21 @@
-20204567;jsanchezv@unsa.edu.pe;Juan Fernando;Sanchez;Villa;25/09/2000;1;1
-20223849;rperezg@unsa.edu.pe;Rodrigo Jesus;Perez;Garcia;18/12/2001;0;1
-20226789;slopezg@unsa.edu.pe;Sergio Denns;Lopez;Galvan;17/03/1999;1;1
-20223933;mrodriguezr@unsa.edu.pe;Maria Ana;Rodriguez;Ruiz;28/04/2001;0;0
-20211092;efernandeza@unsa.edu.pe;Ernesto Carlos;Fernandez;Aguilar;19/09/2004;0;1
-20233456;cmartinezp@unsa.edu.pe;Camila Fernanda;Martinez;Pineda;5/02/2005;1;0
-20221672;bsilvar@unsa.edu.pe;Beth Noah;Silva;Roman;7/08/2003;1;0
-20234888;jbenitezb@unsa.edu.pe;Jack North;Benitez;Bellido;26/10/2002;1;1
-20217400;jfuentesa@unsa.edu.pe;Joel Oliver;Fuentes;Alarcon;13/11/2000;1;1
-20230980;gespinosap@unsa.edu.pe;Gilberto David;Espinosa;Perez;1/12/2003;1;1
-20222072;htapiab@unsa.edu.pe;Hector David;Tapia;Berry;30/05/2000;1;1
-20221010;hcarrascom@unsa.edu.pe;Henry Mason;Carrasco;Mujica;15/05/2001;1;1
-20235647;lreyess@unsa.edu.pe;Lina Gabriela;Reyes;Soriano;29/04/2005;0;0
-20222020;aortisv@unsa.edu.pe;Ana Gabriela;Ortis;Vargas;27/07/2004;1;0
-20234517;jgarridoy@unsa.edu.pe;Jose María;Garrido;Yanqui;4/06/2003;1;1
-20234567;mruizh@unsa.edu.pe;María Jose;Ruiz;Herrera;10/12/2005;1;0
-20231111;ldonosop@unsa.edu.pe;Lucas Fernando;Donoso;Paredes;20/10/1999;0;1
-20221923;gmendozac@unsa.edu.pe;Gabriel Pablo;Mendoza;Castro;5/05/2005;0;1
-20234450;eparraa@unsa.edu.pe;Emilia Gabi;Parra;Alva;31-09-2000;1;0
-20213478;jromerod@unsa.edu.pe;Juana Ximena;Romero;Diaz;15/01/1998;1;0
+CUI	Correo	Nombre	Paterno	Materno	Edad	Estado	Genero
+20204567	jsanchezv@unsa.edu.pe	Juan Fernando	Sanchez	Villa	25/09/2000	1	1
+20223849	rperezg@unsa.edu.pe	Rodrigo Jesus	Perez	Garcia	18/12/2001	0	1
+20226789	slopezg@unsa.edu.pe	Sergio Denns	Lopez	Galvan	17/03/1999	1	1
+20223933	mrodriguezr@unsa.edu.pe	Maria Ana	Rodriguez	Ruiz	28/04/2001	0	0
+20211092	efernandeza@unsa.edu.pe	Ernesto Carlos	Fernandez	Aguilar	19/09/2004	0	1
+20233456	cmartinezp@unsa.edu.pe	Camila Fernanda	Martinez	Pineda	5/02/2005	1	0
+20221672	bsilvar@unsa.edu.pe	Beth Noah	Silva	Roman	7/08/2003	1	0
+20234888	jbenitezb@unsa.edu.pe	Jack North	Benitez	Bellido	26/10/2002	1	1
+20217400	jfuentesa@unsa.edu.pe	Joel Oliver	Fuentes	Alarcon	13/11/2000	1	1
+20230980	gespinosap@unsa.edu.pe	Gilberto David	Espinosa	Perez	1/12/2003	1	1
+20222072	htapiab@unsa.edu.pe	Hector David	Tapia	Berry	30/05/2000	1	1
+20221010	hcarrascom@unsa.edu.pe	Henry Mason	Carrasco	Mujica	15/05/2001	1	1
+20235647	lreyess@unsa.edu.pe	Lina Gabriela	Reyes	Soriano	29/04/2005	0	0
+20222020	aortisv@unsa.edu.pe	Ana Gabriela	Ortis	Vargas	27/07/2004	1	0
+20234517	jgarridoy@unsa.edu.pe	Jose MarÃ­a	Garrido	Yanqui	4/06/2003	1	1
+20234567	mruizh@unsa.edu.pe	MarÃ­a Jose	Ruiz	Herrera	10/12/2005	1	0
+20231111	ldonosop@unsa.edu.pe	Lucas Fernando	Donoso	Paredes	20/10/1999	0	1
+20221923	gmendozac@unsa.edu.pe	Gabriel Pablo	Mendoza	Castro	5/05/2005	0	1
+20234450	eparraa@unsa.edu.pe	Emilia Gabi	Parra	Alva	31-08-2000	1	0
+20213478	jromerod@unsa.edu.pe	Juana Ximena	Romero	Diaz	15/01/1998	1	0
